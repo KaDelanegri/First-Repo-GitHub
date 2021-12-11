@@ -1,10 +1,8 @@
-# First-Repo-GitHub
+# First-Repo-GitHub ‚úèÔ∏è
 First repository created to follow the evolution in the Bootcamp Java Developer of the company Spread
 
 
-# Sharing my accomplishments on Bootcamp
+# Sharing my accomplishments on Bootcamp üöÄ
 
-### [LÛgica de ProgramaÁ„o Essencial](https://hurricane-empress-cd8.notion.site/L-gica-de-Programa-o-Essencial-645dac1b6cb6472495f5757eafc8a7f0)
-### [Estrutura de Dados e Algoritmos](https://hurricane-empress-cd8.notion.site/Estrutura-de-Dados-e-Algoritmos-11c12b3a0fbf4ce6a24381efcfe0dfe4)
-### [IntroduÁ„o ao Git e ao GitHub](https://hurricane-empress-cd8.notion.site/Introdu-o-ao-Git-e-ao-GitHub-a36ee7d7d73b4809a9196af4c2ed3427)
+###[Anota√ß√µes Bootcamp - Spread Java Developer](https://hurricane-empress-cd8.notion.site/Bootcamp-Spread-Java-Developer-2e26e90ed15c4888a800f06eb5c6e1b2) ‚òï
 
